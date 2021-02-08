@@ -1,0 +1,15 @@
+body{
+    margin: 50px 500px;
+    border:inset black 2px;
+    padding: 50px;
+}
+h1, h4{
+    text-align: center;
+}
+li{
+    list-style-type: none ;
+}
+a:link, a:visited{
+    text-decoration: none;
+    color: black;
+}
